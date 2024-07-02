@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+      background: #fcfcfd;
+}
+body {
+      width: 1440px;
+}
+
+.copyrightContainer {
+      width: 1120px;
+      height: 5px;
+
+      margin-right: 158px;
+      gap: 0px;
+      opacity: 0px;
+}
+.copyright {
+      width: 258px;
+
+      top: 25px;
+      padding-top: 20px;
+      gap: 0px;
+      opacity: 0px;
+}
+.Caption2 {
+      font-family: Poppins;
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 20px;
+      text-align: left;
+      color: #353945;
+}
+.headercontainer {
+      width: 1440px;
+      height: 88px;
+      gap: 0px;
+      opacity: 0px;
+}
+.logo {
+}
+
+.button2 {
+      height: 16px;
+      padding-top: 20px;
+      gap: 0px;
+      opacity: 0px;
+
+      font-family: DM Sans;
+      font-size: 14px;
+      font-weight: 700;
+      line-height: 16px;
+      text-align: center;
+      color: #353945;
+}
+.signInButton {
+      width: 99px;
+      height: 48px;
+
+      padding: 16px 24px 16px 24px;
+      gap: 12px;
+      border-radius: 90px 90px 90px 90px;
+      opacity: 0px;
+      background: #58c27d;
+      color: #fcfcfd;
+}
