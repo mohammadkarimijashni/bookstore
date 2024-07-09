@@ -66,3 +66,10 @@ body {
       background: #58c27d;
       color: #fcfcfd;
 }
+
+.star {
+      background-image: url("https://flyclipart.com/favorite-five-point-gold-star-icon-star-icon-png-354472>");
+      background-size: ;
+      width: 20px;
+      height: 20px;
+}

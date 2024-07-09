@@ -1,0 +1,13 @@
+{
+      "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../uni project/simpleProject1"
+		}
+	],
+      "settings": {
+            "liveServer.settings.multiRootWorkspaceName": "tailwind_bookstore"
+      }
+}
