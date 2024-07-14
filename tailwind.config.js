@@ -21,6 +21,9 @@ module.exports = {
                         popins: ["Poppins "],
                         roboto: ["Roboto"],
                   },
+                  zIndex: {
+                        "-1": "-1",
+                  },
             },
       },
       plugins: [],

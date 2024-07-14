@@ -2,11 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-      background: #fcfcfd;
-}
 body {
-      width: 1440px;
+      background: #fcfcfd;
 }
 
 .copyrightContainer {
@@ -68,7 +65,7 @@ body {
 }
 
 .star {
-      background-image: url("https://flyclipart.com/favorite-five-point-gold-star-icon-star-icon-png-354472>");
+      background-image: url("");
       background-size: ;
       width: 20px;
       height: 20px;
